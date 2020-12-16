@@ -14,3 +14,10 @@ focus on the high-frequency rain streaks in the image. Previously developed meth
 streaks from the images using only low-level features. These
 methods face difficulty in removing the rain streaks when the
 structure of the rain is similar to the object in the scene.
+
+
+## Dataset
+Access the PDF file in the repository to access the data used for the project.
+
+## Results
+PDF file has the colab notebooks which would display the results of the work
